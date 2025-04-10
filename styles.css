@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+.table-style {
+	border-collapse: collapse;
+    width: 100%;
+}
+
+.table-style, td {
+	border: 1px solid black;
+	text-align: left;
+}
